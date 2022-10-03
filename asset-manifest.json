@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/amusement-park-website/static/css/main.6de0bb9d.css",
+    "main.js": "/amusement-park-website/static/js/main.99212b15.js",
+    "static/js/787.797c0709.chunk.js": "/amusement-park-website/static/js/787.797c0709.chunk.js",
+    "index.html": "/amusement-park-website/index.html",
+    "main.6de0bb9d.css.map": "/amusement-park-website/static/css/main.6de0bb9d.css.map",
+    "main.99212b15.js.map": "/amusement-park-website/static/js/main.99212b15.js.map",
+    "787.797c0709.chunk.js.map": "/amusement-park-website/static/js/787.797c0709.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6de0bb9d.css",
+    "static/js/main.99212b15.js"
+  ]
+}
