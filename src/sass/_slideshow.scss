@@ -1,0 +1,69 @@
+.carousel-inner 
+{
+    height : 550px;
+    width : 92vw;
+    border-radius: 7px;
+
+    .carousel-details
+    {
+        width : 1000px;
+        position : absolute;     
+        background-color: rgba(255, 255, 255, 0.9);
+        height : 100%;
+        transform : rotate(70deg) translateY(40%);
+        z-index : 800;
+    }
+    
+    .ct-dark,.p-dark
+    {
+        color : white;
+    }
+    .cd-dark 
+    {
+        background-color: rgba(0, 18, 66, 0.8);
+    }
+
+    .carousel-extra 
+    {
+        width : 400px;
+        height : 100%;
+        position : absolute;
+        z-index : 900;
+
+        &_btn 
+        {
+            margin-top : -16px;
+            width : 170px;
+            height : 55px;
+            margin-left : 20px;
+            font-family: 'Averta-Bold';
+            font-size : 14px;
+        }
+    }
+    .carousel-text 
+    {
+        font-size : 25px;
+        padding : 20px;
+        font-family : 'Averta-Bold';
+
+        &_2 
+        {
+            color : white;
+        }
+    }
+    .p 
+    {
+        font-size : 15px;
+        font-weight: lighter;
+        font-family: 'Averta Standard';
+        letter-spacing: 0.2px;
+        
+        span 
+        {
+            font-size : 12px;
+            margin-left : 0px;
+            color : #ffd23f;
+            font-family : 'Averta-Bold';
+        }
+    }
+}
