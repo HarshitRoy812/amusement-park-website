@@ -1,3 +1,7 @@
+import ss1 from './images/ss1.png';
+import ss2 from './images/ss2.png';
+import ss3 from './images/ss3.png';
+
 export default function Slideshow()
 {
     return (
@@ -22,7 +26,7 @@ export default function Slideshow()
                 <button class = 'carousel-extra_btn btn btn-primary'> CHECK RIDES </button>
             </div>
             <div class = 'carousel-details'></div>
-            <img src="../../images/ss1.png" class="d-block w-100" height = "660" alt="..." />
+            <img src = {ss1} class="d-block w-100" height = "660" alt="..." />
             
             </div>
             <div class="carousel-item">
@@ -32,7 +36,7 @@ export default function Slideshow()
                 <button class = 'carousel-extra_btn btn btn-info'> JOIN MEMBERSHIP </button>
             </div>
             <div class = 'carousel-details cd-dark'></div>
-            <img src="../../images/ss2.png" class="d-block w-100"  height = "660"alt="..." />
+            <img src = {ss2} class="d-block w-100"  height = "660"alt="..." />
             </div>
             <div class="carousel-item">
             <div class = 'carousel-extra d-flex flex-column pt-5 ps-3'>
@@ -40,7 +44,7 @@ export default function Slideshow()
                 <p class = 'carousel-text p p-dark'> Membership Plans <br /> <span> Monthly Rs.200/-  </span> <br /> <span> Annually  Rs.2000/- </span> </p>
                 <button class = 'carousel-extra_btn btn btn-info'> JOIN MEMBERSHIP </button>
             </div>
-            <img src="../../images/ss3.png" class="d-block w-100" alt="..." />
+            <img src = {ss3} class="d-block w-100" alt="..." />
             </div>
         
         </div>
