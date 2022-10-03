@@ -35,6 +35,11 @@ export default function Slideshow()
             <img src="../../images/ss2.png" class="d-block w-100"  height = "660"alt="..." />
             </div>
             <div class="carousel-item">
+            <div class = 'carousel-extra d-flex flex-column pt-5 ps-3'>
+                <h1 class = 'carousel-text ct-dark'> Get full benefits of amusement rides by joining Horizon+ Membership. </h1>
+                <p class = 'carousel-text p p-dark'> Membership Plans <br /> <span> Monthly Rs.200/-  </span> <br /> <span> Annually  Rs.2000/- </span> </p>
+                <button class = 'carousel-extra_btn btn btn-info'> JOIN MEMBERSHIP </button>
+            </div>
             <img src="../../images/ss3.png" class="d-block w-100" alt="..." />
             </div>
         
