@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/amusement-park-website/static/css/main.e923088d.css",
+    "main.css": "/amusement-park-website/static/css/main.d88f0bc1.css",
     "main.js": "/amusement-park-website/static/js/main.41e8dc9e.js",
     "static/js/787.797c0709.chunk.js": "/amusement-park-website/static/js/787.797c0709.chunk.js",
     "static/media/ss3.png": "/amusement-park-website/static/media/ss3.980d28e3185bc1f24115.png",
@@ -12,12 +12,12 @@
     "static/media/AvertaStd-Regular.woff2": "/amusement-park-website/static/media/AvertaStd-Regular.105bf5aa828687034f38.woff2",
     "static/media/logo.png": "/amusement-park-website/static/media/logo.e79211cde33a8210b1c8.png",
     "index.html": "/amusement-park-website/index.html",
-    "main.e923088d.css.map": "/amusement-park-website/static/css/main.e923088d.css.map",
+    "main.d88f0bc1.css.map": "/amusement-park-website/static/css/main.d88f0bc1.css.map",
     "main.41e8dc9e.js.map": "/amusement-park-website/static/js/main.41e8dc9e.js.map",
     "787.797c0709.chunk.js.map": "/amusement-park-website/static/js/787.797c0709.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e923088d.css",
+    "static/css/main.d88f0bc1.css",
     "static/js/main.41e8dc9e.js"
   ]
 }
