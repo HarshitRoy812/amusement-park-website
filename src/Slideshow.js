@@ -43,7 +43,7 @@ export default function Slideshow()
                 <h1 class = 'carousel-text ct'> Enjoy delicious meals cooked by our top-ranked chefs. </h1>
                 <p class = 'carousel-text p p-orange'> * Veg Rs.510 / person <br /> * Non-Veg Rs.700 / person </p>
                 
-                <button class = 'carousel-extra_btn btn btn-light'> VIEW FULL MENU </button>
+                <button class = 'carousel-extra_btn btn btn-light'> VIEW MENU </button>
             </div>
             <div class = 'carousel-details cd-orange'></div>
             <img src = {ss3} class="d-block w-100" height = "660" alt="..." />
