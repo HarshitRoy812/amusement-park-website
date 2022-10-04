@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/amusement-park-website/static/css/main.d88f0bc1.css",
-    "main.js": "/amusement-park-website/static/js/main.67c0c209.js",
+    "main.css": "/amusement-park-website/static/css/main.2f69fe80.css",
+    "main.js": "/amusement-park-website/static/js/main.5b306668.js",
     "static/js/787.797c0709.chunk.js": "/amusement-park-website/static/js/787.797c0709.chunk.js",
-    "static/media/ss3.png": "/amusement-park-website/static/media/ss3.980d28e3185bc1f24115.png",
+    "static/media/ss3.png": "/amusement-park-website/static/media/ss3.107612c9e7ece3748400.png",
     "static/media/ss1.png": "/amusement-park-website/static/media/ss1.4b691cca3098b847792f.png",
     "static/media/ss2.png": "/amusement-park-website/static/media/ss2.f80b41002fff627fe036.png",
     "static/media/Averta-Bold.woff": "/amusement-park-website/static/media/Averta-Bold.09f030acde98531c81e4.woff",
@@ -12,12 +12,12 @@
     "static/media/AvertaStd-Regular.woff2": "/amusement-park-website/static/media/AvertaStd-Regular.105bf5aa828687034f38.woff2",
     "static/media/logo.png": "/amusement-park-website/static/media/logo.e79211cde33a8210b1c8.png",
     "index.html": "/amusement-park-website/index.html",
-    "main.d88f0bc1.css.map": "/amusement-park-website/static/css/main.d88f0bc1.css.map",
-    "main.67c0c209.js.map": "/amusement-park-website/static/js/main.67c0c209.js.map",
+    "main.2f69fe80.css.map": "/amusement-park-website/static/css/main.2f69fe80.css.map",
+    "main.5b306668.js.map": "/amusement-park-website/static/js/main.5b306668.js.map",
     "787.797c0709.chunk.js.map": "/amusement-park-website/static/js/787.797c0709.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d88f0bc1.css",
-    "static/js/main.67c0c209.js"
+    "static/css/main.2f69fe80.css",
+    "static/js/main.5b306668.js"
   ]
 }
