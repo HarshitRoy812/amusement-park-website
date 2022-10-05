@@ -1,4 +1,9 @@
-
+.h-stack 
+{
+    margin-left : auto;
+    width : 90vw;
+    margin-left : 100px;
+}
 
 
 .about 
@@ -7,6 +12,7 @@
     
     &_header 
     {
+        
         font-family: "Averta";
         font-weight: bold;
 
@@ -28,6 +34,9 @@
 
     &_details 
     {
+       display : flex;
+       justify-content: center;
+       align-items: center;
        line-height : 1.2rem;
        color : #adb5bd;
        font-family : 'AvertaStd';
