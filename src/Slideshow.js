@@ -126,24 +126,199 @@ export default function Slideshow()
                         <Modal.Title> Our Food Menu  </Modal.Title>
                         </Modal.Header>
                         <Modal.Body  className = 'ss3-body'>
-                          
+        
                           <Stack direction = 'column' gap = {3}>
-                            <Stack direction = 'horizontal' gap = {3}>        
-                                <p> Pan Roasted Brioche </p>
-                                <p> $2.5 </p>
-                            </Stack>
-                            <Stack direction = 'horizontal' gap = {3}>
-                                <p> Pan Roasted Brioche </p>
-                                <p> $2.5 </p>
-                            </Stack>
-                            <Stack direction = 'horizontal' gap = {3}>
-                                <p> Pan Roasted Brioche </p>
-                                <p> $2.5 </p>
-                            </Stack>
-                            <Stack direction = 'horizontal' gap = {3}>
-                                <p> Pan Roasted Brioche </p>
-                                <p> $2.5 </p>
-                            </Stack>
+                            <Row>
+                                <Col>
+                                    <Stack direction = 'horizontal' gap = {3}>        
+                                        <h2 className = 'menu-h2'> Snacks </h2>
+                                    </Stack>
+                                    <Stack direction = 'horizontal' gap = {3}>        
+                                        <p> Pan Roasted Peanuts </p>
+                                        <p> ₹105 </p>
+                                    </Stack>
+                                    <Stack direction = 'horizontal' gap = {3}>
+                                        <p> Masala Chaat </p>
+                                        <p> ₹25 </p>
+                                    </Stack>
+                                    <Stack direction = 'horizontal' gap = {3}>
+                                        <p> Pani Puri </p>
+                                        <p> ₹50 </p>
+                                        <p className = 'menu-new'> NEW !</p>
+                                    </Stack>
+                                    <Stack direction = 'horizontal' gap = {3}>
+                                        <p> Chowmein </p>
+                                        <p> ₹40 </p>
+                                    </Stack>
+                                    <Stack direction = 'horizontal' gap = {3}>
+                                        <p> Dhokla </p>
+                                        <p> ₹30 </p>
+                                    </Stack>
+                                    <Stack direction = 'horizontal' gap = {3}>
+                                        <p> Kaju-Katli </p>
+                                        <p> ₹70 (2 pieces) </p>
+                                    </Stack>
+                                </Col>
+                                <Col>
+                                    <Stack direction = 'horizontal' gap = {3}>        
+                                      <p> </p>
+                                    </Stack>
+                                    <Stack direction = 'horizontal' gap = {3}>        
+                                      <p> </p>
+                                    </Stack>
+                                    <Stack direction = 'horizontal' gap = {3}>        
+                                      <p> </p>
+                                    </Stack>
+                                    <Stack direction = 'horizontal' gap = {3}>        
+                                        <p> Spring Roll  </p>
+                                        <p> ₹50 </p>
+                                    </Stack>
+                                    <Stack direction = 'horizontal' gap = {3}>
+                                        <p> Momos </p>
+                                        <p> ₹30 </p>
+                                    </Stack>
+                                    <Stack direction = 'horizontal' gap = {3}>
+                                        <p> Burger </p>
+                                        <p> ₹70 </p>
+                                    </Stack>
+                                    <Stack direction = 'horizontal' gap = {3}>
+                                        <p> Chips </p>
+                                        <p> ₹30 </p>
+                                    </Stack>
+                                    <Stack direction = 'horizontal' gap = {3}>
+                                        <p> Chicken Kabab </p>
+                                        <p> ₹100  </p>
+                                    </Stack>
+                                    <Stack direction = 'horizontal' gap = {3}>
+                                        <p> Soya Chaap </p>
+                                        <p> ₹50  </p>
+                                    </Stack>
+                                </Col>
+                                
+                                </Row>
+                            <Row>
+                                <Col>
+                                    <Stack direction = 'horizontal' gap = {3}>        
+                                        <h2 className = 'menu-h2'> Dishes </h2>
+                                    </Stack>
+                                    <Stack direction = 'horizontal' gap = {3}>        
+                                        <p> Butter Paneer  </p>
+                                        <p> ₹200 </p>
+                                    </Stack>
+                                    <Stack direction = 'horizontal' gap = {3}>
+                                        <p> Malai Kofta </p>
+                                        <p> ₹125 </p>
+                                    </Stack>
+                                    <Stack direction = 'horizontal' gap = {3}>
+                                        <p> Butter Chicken </p>
+                                        <p> ₹300 </p>
+                                    </Stack>
+                                    <Stack direction = 'horizontal' gap = {3}>
+                                        <p> Manchurian Gravy</p>
+                                        <p> ₹150 </p>
+                                    </Stack>
+                                    <Stack direction = 'horizontal' gap = {3}>
+                                        <p> Mixed Vegetable </p>
+                                        <p> ₹120 </p>
+                                    </Stack>
+                                    <Stack direction = 'horizontal' gap = {3}>
+                                        <p> Palak Paneer </p>
+                                        <p> ₹100 </p>
+                                    </Stack>
+                                </Col>
+                                <Col>
+                                    <Stack direction = 'horizontal' gap = {3}>        
+                                      <p> </p>
+                                    </Stack>
+                                    <Stack direction = 'horizontal' gap = {3}>        
+                                      <p> </p>
+                                    </Stack>
+                                    <Stack direction = 'horizontal' gap = {3}>        
+                                      <p> </p>
+                                    </Stack>
+                                    <Stack direction = 'horizontal' gap = {3}>        
+                                        <p> Butter Naan </p>
+                                        <p> ₹50 (2 pieces) </p>
+                                    </Stack>
+                                    <Stack direction = 'horizontal' gap = {3}>
+                                        <p> Plain Naan </p>
+                                        <p> ₹30 (2 pieces) </p>
+                                    </Stack>
+                                    <Stack direction = 'horizontal' gap = {3}>
+                                        <p> Rumali Roti </p>
+                                        <p> ₹50 (2 pieces) </p>
+                                    </Stack>
+                                    <Stack direction = 'horizontal' gap = {3}>
+                                        <p> Plain Roti </p>
+                                        <p> ₹20 (2 pieces) </p>
+                                    </Stack>
+                                    <Stack direction = 'horizontal' gap = {3}>
+                                        <p> Fried Rice </p>
+                                        <p> ₹100  </p>
+                                    </Stack>
+                                    <Stack direction = 'horizontal' gap = {3}>
+                                        <p> Plain Rice</p>
+                                        <p> ₹70  </p>
+                                    </Stack>
+                                </Col>
+                                
+                            </Row>
+                            <Row>
+                                <Col>
+                                    <Stack direction = 'horizontal' gap = {3}>        
+                                        <h2 className = 'menu-h2'> Sweets </h2>
+                                    </Stack>
+                                    <Stack direction = 'horizontal' gap = {3}>        
+                                        <p> Gulab Jamun </p>
+                                        <p> ₹150 </p>
+                                    </Stack>
+                                    <Stack direction = 'horizontal' gap = {3}>
+                                        <p> Lassi </p>
+                                        <p> ₹25 </p>
+                                    </Stack>
+                                    <Stack direction = 'horizontal' gap = {3}>
+                                        <p> Pancake </p>
+                                        <p> ₹120 </p>
+                                    </Stack>
+                                    <Stack direction = 'horizontal' gap = {3}>
+                                        <p> Brownie </p>
+                                        <p> ₹100 </p>
+                                    </Stack>
+                                    <Stack direction = 'horizontal' gap = {3}>
+                                        <p> Vanilla Ice-Cream </p>
+                                        <p> ₹70 </p>
+                                    </Stack>
+                                    <Stack direction = 'horizontal' gap = {3}>
+                                        <p> Kheer </p>
+                                        <p> ₹170 </p>
+                                    </Stack>
+                                </Col>
+                                <Col>
+                                    <Stack direction = 'horizontal' gap = {3}>        
+                                      <p> </p>
+                                    </Stack>
+                                    <Stack direction = 'horizontal' gap = {3}>        
+                                      <p> </p>
+                                    </Stack>
+                                    <Stack direction = 'horizontal' gap = {3}>        
+                                      <p> </p>
+                                    </Stack>
+                                    <Stack direction = 'horizontal' gap = {3}>        
+                                        <p> Cheesecake </p>
+                                        <p> ₹70 </p>
+                                    </Stack>
+                                    <Stack direction = 'horizontal' gap = {3}>
+                                        <p> Pastry </p>
+                                        <p> ₹50 (2 pieces) </p>
+                                    </Stack>
+                                    <Stack direction = 'horizontal' gap = {3}>
+                                        <p> Fruit Custard </p>
+                                        <p> ₹200 </p>
+                                    </Stack>
+                                 
+                                </Col>
+                                
+                            </Row>
                           </Stack>
 
                         </Modal.Body>
