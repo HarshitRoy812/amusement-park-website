@@ -12,7 +12,7 @@ export default function Navbar()
                 <span class="navbar-toggler-icon"></span>
               </button>
               <div class = 'collapse navbar-collapse d-flex justify-content-center' id = 'navbarNav'>
-                <ul class = 'navbar-nav'>
+                <ul class = 'navbar-nav'> 
                   <li class = 'nav-item me-3'>
                     <a class = 'nav-link active' aria-current = 'page' href = '#'> Home </a>
                   </li>
