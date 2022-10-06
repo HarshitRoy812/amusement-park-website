@@ -1,7 +1,8 @@
 import React from 'react';
-import Navbar from './Navbar';
+import Navbar from './NavBar';
 import About from './About';
 import Slideshow from './Slideshow';
+import Location from './Location';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 
@@ -14,6 +15,7 @@ export default function App()
             <Navbar />
             <About />
             <Slideshow />
+            <Location />
         </React.Fragment>
     )
 }
