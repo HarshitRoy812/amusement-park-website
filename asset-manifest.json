@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/amusement-park-website/static/css/main.2f69fe80.css",
-    "main.js": "/amusement-park-website/static/js/main.a9a721ca.js",
+    "main.css": "/amusement-park-website/static/css/main.73930f04.css",
+    "main.js": "/amusement-park-website/static/js/main.453c3936.js",
     "static/js/787.797c0709.chunk.js": "/amusement-park-website/static/js/787.797c0709.chunk.js",
-    "static/media/ss3.png": "/amusement-park-website/static/media/ss3.107612c9e7ece3748400.png",
-    "static/media/ss1.png": "/amusement-park-website/static/media/ss1.4b691cca3098b847792f.png",
-    "static/media/ss2.png": "/amusement-park-website/static/media/ss2.f80b41002fff627fe036.png",
+    "static/media/ss1.png": "/amusement-park-website/static/media/ss1.2b136ef956ceb6837efe.png",
+    "static/media/ss3.png": "/amusement-park-website/static/media/ss3.4f1d90e22c347c1b2c21.png",
+    "static/media/ss2.png": "/amusement-park-website/static/media/ss2.e5c2f82b9f195bfb8ba0.png",
+    "static/media/brioche.png": "/amusement-park-website/static/media/brioche.6945e3e2db2c08fa96c1.png",
     "static/media/Averta-Bold.woff": "/amusement-park-website/static/media/Averta-Bold.09f030acde98531c81e4.woff",
     "static/media/AvertaStd-Regular.woff": "/amusement-park-website/static/media/AvertaStd-Regular.28b977fb8e71e12943a7.woff",
     "static/media/Averta-Bold.woff2": "/amusement-park-website/static/media/Averta-Bold.168837a742e4d45a6074.woff2",
     "static/media/AvertaStd-Regular.woff2": "/amusement-park-website/static/media/AvertaStd-Regular.105bf5aa828687034f38.woff2",
     "static/media/logo.png": "/amusement-park-website/static/media/logo.e79211cde33a8210b1c8.png",
     "index.html": "/amusement-park-website/index.html",
-    "main.2f69fe80.css.map": "/amusement-park-website/static/css/main.2f69fe80.css.map",
-    "main.a9a721ca.js.map": "/amusement-park-website/static/js/main.a9a721ca.js.map",
+    "main.73930f04.css.map": "/amusement-park-website/static/css/main.73930f04.css.map",
+    "main.453c3936.js.map": "/amusement-park-website/static/js/main.453c3936.js.map",
     "787.797c0709.chunk.js.map": "/amusement-park-website/static/js/787.797c0709.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f69fe80.css",
-    "static/js/main.a9a721ca.js"
+    "static/css/main.73930f04.css",
+    "static/js/main.453c3936.js"
   ]
 }
