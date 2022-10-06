@@ -12,9 +12,23 @@
         position : absolute;
         top : 0;
 
-        h2 
+        h2   
         {
             transition : 0.3s;
+            animation-name : animate;  // Text animation 
+            animation-duration : 2s;
+        }
+
+        @keyframes animate 
+        {
+            from 
+            {
+                transform : translateY(-60%);
+            }
+            to 
+            {
+                transform : translateY(0%);
+            }
         }
      
         .btn 
