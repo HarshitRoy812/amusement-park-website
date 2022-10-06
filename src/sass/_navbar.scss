@@ -32,10 +32,12 @@
 }
 
 .navbar-extra 
-{
+{ 
+    display : flex;
+    justify-content : center;
+    align-items : center;
     width : 70px;
     min-height : 20px;
-    
     i 
     {
         color : #778da9;

@@ -1,5 +1,5 @@
 import React from 'react';
-import Navbar from './Navbar';
+import Navbar from './NavBar';
 import About from './About';
 import Slideshow from './Slideshow';
 
