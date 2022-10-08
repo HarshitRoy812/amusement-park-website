@@ -1,0 +1,50 @@
+.card 
+{
+    margin-top : 70px;
+    width : 100vw;
+    border : none;
+
+    &_header 
+    {
+        width : 350px;
+        margin : auto;
+        font-family : 'Averta';
+        
+        h1 
+        {
+            margin : auto;
+            font-size : 30px;
+
+            &::after 
+            {
+                content : '';
+                display : block;
+                width : 20%;
+                height : 2px;
+                margin : auto;
+                background : black;
+                margin-top : 10px;
+            }
+        }
+
+        p 
+        {
+            font-family: 'AvertaStd';
+            font-size: 12px;
+            text-align: center;
+        }
+    }
+}
+
+
+.ride_image 
+{
+    height : 250px;
+    width : 400px;
+    margin : auto;
+}
+
+.ride_title 
+{
+    font-family : 'Averta';
+}

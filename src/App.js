@@ -3,6 +3,8 @@ import Navbar from './NavBar';
 import About from './About';
 import Slideshow from './Slideshow';
 import Location from './Location';
+import Waterpark from './Waterpark';
+import Card from './Enjoy';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 
@@ -16,6 +18,8 @@ export default function App()
             <About />
             <Slideshow />
             <Location />
+            <Waterpark/>
+            <Card />
         </React.Fragment>
     )
 }

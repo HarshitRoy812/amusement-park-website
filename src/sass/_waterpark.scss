@@ -1,0 +1,38 @@
+.waterpark 
+{
+    width : 100vw;
+    height : 70vh;
+    background-image : url('../images/waterpark.png');
+    background-position: center;
+    background-size: cover;
+    margin-top : 50px;
+
+    &_overlay 
+    {
+        padding-left : 30px;
+        padding-top : 20px;
+        width : 40%;
+        height : 100%;
+        background : rgba(255, 190, 11,1);
+        
+
+        h1 
+        {
+            color : #14213d;
+            font-family : 'Averta';
+            font-size: 46px;
+        }
+        p 
+        {
+            color : #14213d;
+            font-family: 'AvertaStd';
+        }
+        
+        .btn 
+        {
+            width : 150px;
+            height : 50px;
+            font-family: 'Averta';
+        }
+    }
+}
