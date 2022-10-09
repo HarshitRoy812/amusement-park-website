@@ -4,6 +4,7 @@
     width : 100vw;
     border : none;
 
+
     &_header 
     {
         width : 350px;
@@ -34,14 +35,41 @@
             text-align: center;
         }
     }
-}
 
+    &_btn 
+    {
+        margin-top : 30px;
+        font-size: 15px;
+        font-family : 'Averta';
+    }
+}
 
 .ride_image 
 {
     height : 250px;
     width : 400px;
     margin : auto;
+    transition : 0.3s;
+    transform : translate(0%,0%);
+}
+
+.animate 
+{
+    animation-name : img-animate;
+    animation-duration : 2s;  
+    animation-fill-mode: forwards;  
+}
+
+@keyframes img-animate 
+{
+    25%
+    {
+        transform : translateY(-16%);
+    }
+    100%
+    {
+        transform : translateY(-16%) scale(1.05,1.05);
+    }
 }
 
 .ride_title 
