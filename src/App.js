@@ -6,6 +6,7 @@ import Location from './Location';
 import Waterpark from './Waterpark';
 import Card from './Enjoy';
 import Contact from './Contact';
+import Footer from './Footer';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 
@@ -22,6 +23,7 @@ export default function App()
             <Waterpark/>
             <Card />
             <Contact />
+            <Footer />
         </React.Fragment>
     )
 }

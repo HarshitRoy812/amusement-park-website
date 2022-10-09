@@ -49,6 +49,14 @@
     font-style: normal;
     font-display: swap;
 }
+@font-face {
+    font-family: 'Brussels City Personal Used';
+    src: url('BrusselsCityPersonalUsed.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
 
 @import 'config';
 @import 'navbar';
@@ -58,3 +66,4 @@
 @import 'waterpark';
 @import 'card';
 @import 'contact';
+@import 'footer';
