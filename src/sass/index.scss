@@ -14,6 +14,41 @@
     font-style: normal;
     font-display: swap;
 }
+@font-face {
+    font-family: 'Cabin';
+    src: url('Cabin-Medium.woff2') format('woff2'),
+        url('Cabin-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cabin';
+    src: url('Cabin-Regular.woff2') format('woff2'),
+        url('Cabin-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cabin';
+    src: url('Cabin-SemiBold.woff2') format('woff2'),
+        url('Cabin-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cabin';
+    src: url('Cabin-Bold.woff2') format('woff2'),
+        url('Cabin-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
 
 @import 'config';
 @import 'navbar';
@@ -22,3 +57,4 @@
 @import 'location';
 @import 'waterpark';
 @import 'card';
+@import 'contact';

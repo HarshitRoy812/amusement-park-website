@@ -50,10 +50,9 @@
     width : 400px;
     margin : auto;
     transition : 0.3s;
-    transform : translate(0%,0%);
 }
 
-.animate 
+.animateImg 
 {
     animation-name : img-animate;
     animation-duration : 2s;  
@@ -64,7 +63,7 @@
 {
     25%
     {
-        transform : translateY(-16%);
+        transform : translateY(-6%);
     }
     100%
     {

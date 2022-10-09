@@ -1,0 +1,33 @@
+.contact 
+{
+    margin-top : 50px;
+    width : 100vw;
+    min-height : 70vh;
+    background-image : linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('../images/contact.png');
+    background-position: center;
+    background-size: cover;
+    display : flex;
+    flex-direction: column;
+    padding : 50px;
+
+    h1 
+    {
+        font-family: 'Averta';
+        color : white;
+        text-transform: lowercase;
+        margin-bottom : 30px;
+    }
+}
+
+
+.form-control 
+{
+    width : 300px;
+}
+.form-label 
+{
+    font-family: 'Cabin';
+    font-weight: normal;
+    color : #eaf4f4;
+    text-transform: lowercase;
+}

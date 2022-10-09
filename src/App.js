@@ -5,6 +5,7 @@ import Slideshow from './Slideshow';
 import Location from './Location';
 import Waterpark from './Waterpark';
 import Card from './Enjoy';
+import Contact from './Contact';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 
@@ -20,6 +21,7 @@ export default function App()
             <Location />
             <Waterpark/>
             <Card />
+            <Contact />
         </React.Fragment>
     )
 }

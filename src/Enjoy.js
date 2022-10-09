@@ -27,11 +27,11 @@ export default function Enjoy()
 
     function animateImg(e)
     {
-        e.target.classList.add('animate');
+        e.target.classList.add('animateImg');
     }
     function removeAnimation(e)
     {
-        e.target.classList.remove('animate');
+        e.target.classList.remove('animateImg');
     }
    
 
@@ -54,6 +54,9 @@ export default function Enjoy()
                         <Card.Title className = 'ride_title'>
                             Cataract Merry Go Round
                         </Card.Title>
+                        <Card.Text>
+                        ₹120/person (10 minutes)
+                        </Card.Text>
                         <Button variant = 'outline-primary card_btn' onClick = {toggleCheck} > EXPLORE </Button>
                     </Card.Body>
                 </Card>
@@ -64,6 +67,9 @@ export default function Enjoy()
                         <Card.Title className = 'ride_title' >
                             Jingle Rings
                         </Card.Title>
+                        <Card.Text>
+                        ₹70/person (5 minutes)
+                        </Card.Text>
                         <Button variant = 'outline-primary card_btn' onClick = {toggleCheck}> EXPLORE </Button>
                     </Card.Body>
                 </Card>
@@ -74,6 +80,9 @@ export default function Enjoy()
                         <Card.Title className = 'ride_title'>
                             Dungeon's Spinner
                         </Card.Title>
+                        <Card.Text>
+                        ₹100/person (10 minutes)
+                        </Card.Text>
                         <Button variant = 'outline-primary card_btn' onClick = {toggleCheck}> EXPLORE </Button>
                     </Card.Body>
                 </Card>
