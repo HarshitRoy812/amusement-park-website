@@ -1,0 +1,78 @@
+.footer 
+{
+    background : black;
+    padding : 20px;
+
+    .links
+    {
+        color : #e9ecef;
+        font-family : 'AvertaStd';
+        font-size : 12px;
+
+        a 
+        {
+            cursor : pointer; 
+            width : 200px;
+
+            &:hover 
+            {
+                text-decoration: underline;
+            }
+        }
+
+        .map 
+        {
+            color : #fb5607;
+        }
+        i 
+        {
+            
+            margin-right : 10px;
+            transition : 0.3s;
+        }
+
+        div:hover i 
+        {
+            transform : translateY(-16%);
+        }
+    }
+
+    .social-links 
+    {
+        a 
+        {
+            transition : 0.3s;
+        }
+        i 
+        {
+            color : #e9ecef;
+            cursor : pointer;
+        }
+        & a:hover 
+        {
+            transform : translateY(-6%);
+        }
+
+        .fa-facebook:hover 
+        {
+            color : #0077b6;
+        }
+        .fa-twitter:hover 
+        {
+            color : #00b4d8;
+        }
+        .fa-instagram:hover 
+        {
+            color : #ff006e;
+        }
+        .fa-quora:hover 
+        {
+            color : #fb5607;
+        }
+        .fa-youtube:hover 
+        {
+            color : #ef233c;
+        }
+    }
+
+}

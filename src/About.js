@@ -13,7 +13,7 @@ export default function About()
                 <p className = 'about_extra'> A fun planet to explore your dreams. </p> 
                 </h1>
             </div>
-            <div className = 'about_details'>
+            <div className = 'about_details' id = 'about'>
                 <p> An adventruous fun resort located in Mumbai, India and introduced in 2021.
                     We aim to make our park the world's largest theme resort in the world. 
                     We provide excellent facilities, world-class infrastructure and 5-star hospitality.

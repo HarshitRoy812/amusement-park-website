@@ -34,7 +34,7 @@ export default function Contact()
 
 
     return (
-        <div className = 'contact'>
+        <div className = 'contact' id = 'contact'>
 
             <h1> Contact Us </h1>
 
@@ -52,7 +52,7 @@ export default function Contact()
 
                 <Form.Group className = 'mb-3' controlId = 'formBasicEmail'>
                     <Form.Label> Message (If any) </Form.Label>
-                    <Form.Control as="textarea" onChange = {(event) => setMsg(event.target.value)} />
+                    <Form.Control as="textarea" placeholder = 'Enter your message' onChange = {(event) => setMsg(event.target.value)} />
                 </Form.Group>
 
 

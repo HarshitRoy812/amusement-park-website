@@ -37,7 +37,7 @@ export default function Enjoy()
 
 
     return (
-        <Stack className = 'card' direction = 'column'>
+        <Stack className = 'card' direction = 'column' id = 'rides'>
 
             <Stack className = 'card_header' direction = 'column' gap = {3}>
                 <h1> Make yourself free </h1>
