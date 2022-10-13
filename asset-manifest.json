@@ -1,24 +1,41 @@
 {
   "files": {
-    "main.css": "/amusement-park-website/static/css/main.73930f04.css",
-    "main.js": "/amusement-park-website/static/js/main.453c3936.js",
+    "main.css": "/amusement-park-website/static/css/main.bb477868.css",
+    "main.js": "/amusement-park-website/static/js/main.b976f6c0.js",
     "static/js/787.797c0709.chunk.js": "/amusement-park-website/static/js/787.797c0709.chunk.js",
+    "static/media/ride1.png": "/amusement-park-website/static/media/ride1.7e67534680951344e165.png",
+    "static/media/waterpark.png": "/amusement-park-website/static/media/waterpark.703cd84ef84517378290.png",
+    "static/media/ride3.png": "/amusement-park-website/static/media/ride3.ee89ad6765c14a0acfce.png",
+    "static/media/contact.png": "/amusement-park-website/static/media/contact.cf299c7482dd4cd84366.png",
+    "static/media/ride2.png": "/amusement-park-website/static/media/ride2.2266966246b2706adf31.png",
+    "static/media/mumbai.png": "/amusement-park-website/static/media/mumbai.fd1d33c3b971ae392206.png",
     "static/media/ss1.png": "/amusement-park-website/static/media/ss1.2b136ef956ceb6837efe.png",
+    "static/media/delhi.png": "/amusement-park-website/static/media/delhi.d7ec5e53fadfff2d3c51.png",
     "static/media/ss3.png": "/amusement-park-website/static/media/ss3.4f1d90e22c347c1b2c21.png",
+    "static/media/kolkata.png": "/amusement-park-website/static/media/kolkata.d7111cef792d08a3c9cf.png",
     "static/media/ss2.png": "/amusement-park-website/static/media/ss2.e5c2f82b9f195bfb8ba0.png",
     "static/media/brioche.png": "/amusement-park-website/static/media/brioche.6945e3e2db2c08fa96c1.png",
     "static/media/Averta-Bold.woff": "/amusement-park-website/static/media/Averta-Bold.09f030acde98531c81e4.woff",
     "static/media/AvertaStd-Regular.woff": "/amusement-park-website/static/media/AvertaStd-Regular.28b977fb8e71e12943a7.woff",
     "static/media/Averta-Bold.woff2": "/amusement-park-website/static/media/Averta-Bold.168837a742e4d45a6074.woff2",
     "static/media/AvertaStd-Regular.woff2": "/amusement-park-website/static/media/AvertaStd-Regular.105bf5aa828687034f38.woff2",
+    "static/media/Cabin-Medium.woff": "/amusement-park-website/static/media/Cabin-Medium.439793c5fefdf1ec6fd8.woff",
+    "static/media/Cabin-Regular.woff": "/amusement-park-website/static/media/Cabin-Regular.67d1c0eca26b422b2df9.woff",
+    "static/media/Cabin-SemiBold.woff": "/amusement-park-website/static/media/Cabin-SemiBold.65611f0354b37ac5c9d2.woff",
+    "static/media/Cabin-Bold.woff": "/amusement-park-website/static/media/Cabin-Bold.f698ab09e25813899b05.woff",
+    "static/media/Cabin-Medium.woff2": "/amusement-park-website/static/media/Cabin-Medium.4bfb0c63685081f0f84b.woff2",
+    "static/media/Cabin-Regular.woff2": "/amusement-park-website/static/media/Cabin-Regular.b89c9a5c388b2eed9dce.woff2",
+    "static/media/Cabin-SemiBold.woff2": "/amusement-park-website/static/media/Cabin-SemiBold.01651b17e3d2bd83fa26.woff2",
     "static/media/logo.png": "/amusement-park-website/static/media/logo.e79211cde33a8210b1c8.png",
+    "static/media/Cabin-Bold.woff2": "/amusement-park-website/static/media/Cabin-Bold.d82763e55fdcb11b7bfe.woff2",
+    "static/media/BrusselsCityPersonalUsed.woff": "/amusement-park-website/static/media/BrusselsCityPersonalUsed.7fdee6623aa97fdee32c.woff",
     "index.html": "/amusement-park-website/index.html",
-    "main.73930f04.css.map": "/amusement-park-website/static/css/main.73930f04.css.map",
-    "main.453c3936.js.map": "/amusement-park-website/static/js/main.453c3936.js.map",
+    "main.bb477868.css.map": "/amusement-park-website/static/css/main.bb477868.css.map",
+    "main.b976f6c0.js.map": "/amusement-park-website/static/js/main.b976f6c0.js.map",
     "787.797c0709.chunk.js.map": "/amusement-park-website/static/js/787.797c0709.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.73930f04.css",
-    "static/js/main.453c3936.js"
+    "static/css/main.bb477868.css",
+    "static/js/main.b976f6c0.js"
   ]
 }
